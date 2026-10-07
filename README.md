@@ -1,5 +1,5 @@
 # Python-Codes
-This repository contains Python programs based on the FUNCTION concept.
+This repository contains Python programs from the practicals.
 
 ## Language
 - Python
