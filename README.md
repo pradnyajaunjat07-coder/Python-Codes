@@ -5,7 +5,19 @@ This repository contains Python programs from the practicals.
 - Python
 
 ## Repository Structure
-- `Python/` — Python programs
+```text
+Python-Codes/
+│
+├── Python/
+│   ├── Q1.py
+│   ├── Q2.py
+│   ├── Q3.py
+│   ├── Q4.py
+│   ├── Q5.py
+│   └── ...
+│
+└── README.md
+```
 
 ## Tools Used
 - Visual Studio Code
